@@ -17,7 +17,6 @@ body {
 
     height: 100vh;
 
-    /* Fonte */
     font-family: 'Roboto', sans-serif;
 
     background-color: #f9f9f9;
@@ -41,7 +40,6 @@ main h2 span {
     color: #ffffffee;
     font-size: 18px;
 }
-
 
 /* ESTRUTURA */
 header, main, footer {
